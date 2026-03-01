@@ -15,7 +15,8 @@ Installation:
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/MberkKeskin/Histogram-Matching-Image-Compositing
+
 cd histogram-matching-compositor
 pip install opencv-python numpy matplotlib scikit-image
 python histogram_matching_compositor.py --imageA imageA_Path --imageB imageB_Path
