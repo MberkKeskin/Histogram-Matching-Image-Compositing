@@ -20,7 +20,7 @@ This project performs histogram matching between two images and allows ROI (Regi
 
 ```bash
 git clone https://github.com/MberkKeskin/Histogram-Matching-Image-Compositing
-cd Histogram-Matching-Image-Compositing
+cd Histogram_Matching_Compositor
 
 
 pip install opencv-python numpy matplotlib scikit-image
